@@ -81,13 +81,14 @@ body {
         object-fit: cover;
     }
     .page-title {
-    font-size:6vw; 
-    width: 94vw;
+    font-size:5.75vw; 
+    width: 100vw;
+    text-align: center;
     font-family: 'Poiret One', cursive;
     color:white; 
     position: absolute; 
     top:5vh;
-    left: 5vw;
+    left: 0vw;
 }
 }
 
