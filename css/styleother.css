@@ -36,12 +36,13 @@ hr {
 
 .page-title {
     font-size:4.5vw; 
-    width: 70vw;
-    font-family: 'Poiret One', cursive;
+    width: 100vw;
+    font-family: 'Open Sans', cursive;
     color:white; 
     position: absolute; 
     top:5vh;
-    left: 16vw;
+    left: 0vw;
+    text-align: center;
 }
 
 body {
@@ -77,17 +78,17 @@ body {
 @media(max-width: 865px) and (min-height:565px) {
     .banner {
         width:100%;
-        height: 20vh;
+        height: 10vh;
         object-fit: cover;
     }
     .page-title {
-    font-size:5.75vw; 
+    font-size:5.5vw; 
     width: 100vw;
     text-align: center;
-    font-family: 'Poiret One', cursive;
+    font-family: 'Lora', cursive;
     color:white; 
     position: absolute; 
-    top:5vh;
+    top:-1vh;
     left: 0vw;
 }
 }
