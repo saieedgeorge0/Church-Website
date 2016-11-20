@@ -163,6 +163,10 @@ html,body
 animation-delay: 0.4s;
 }
 
+.design {
+    width: 100%;
+}
+
 @-webkit-keyframes fadeInUp {
   from {
     opacity: 0;
